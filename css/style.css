@@ -1,0 +1,94 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+    margin: 0;
+}
+#fondoTitulo{
+    background-image: url(../img/Lucha\ de\ Independencia.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+#titulo{
+    background-color: black;
+    width: 75%;
+    color: white;
+    position: relative;
+    top: 568px;
+    padding-left: .2em;
+}
+.margen{
+    width: 80%;
+    margin: auto;
+    padding: 3em;
+    overflow: auto;
+}
+.contenedor-img{
+    width: 30%;
+    margin: 50px .7em;
+}
+.contenedor-bio{
+    width: 65%;
+}
+.contenedor-img-autor{
+    width: 17%;
+    margin: 25px .7em;
+}
+.img{
+    width: 100%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+#fondoVerde{
+    background-color: green;
+}
+#fondoRojo{
+    background-color: red;
+}
+span{
+    font-size: 40px;
+}
+#fondoNegro{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 40px;
+}
+h5{
+    font-size: 25px;
+}
+ul{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+a:hover{
+    background-color: green;
+    color: red;
+}
+a{
+    font-size: 1.2em;
+}
+#lista{
+    font-size: 22px;
+    box-shadow: 15px 15px 10px black;
+    width: 60%;
+    margin: auto;
+    padding: 1em;
+}
